@@ -1,1 +1,1 @@
-"Update :\n\nNew supported game \"cobra kai\""
+UpdateTxt = "Update :\n\nNew supported game \"cobra kai\""
